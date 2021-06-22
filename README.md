@@ -6,3 +6,4 @@ Projects from A Collection of Data Science Take-Home Challenge by Guilio Palombo
 2. A/B Testing - Spanish Translation
 3. Employee Retention
 4. Fraud
+5. Funnel Analysis
